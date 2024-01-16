@@ -49,15 +49,15 @@ I'm an full-stack developer and content creator building my version of the digit
 
 <details>
  <summary><h3>👨‍💻 Fundamental guides to system tuning, overclocking, basic Windows documentation, and more</h3></summary>
-   ACT WIN + OFFICE
+   **ACT WIN + OFFICE**
    
    https://github.com/massgravel/Microsoft-Activation-Scripts
    
-   Office-Tool download
+   **Office-Tool download**
 
    https://github.com/YerongAI/Office-Tool/releases
    
-   Fundamental guides to system tuning, overclocking, basic Windows documentation, and more
+   **Fundamental guides to system tuning, overclocking, basic Windows documentation, and more**
 
    https://github.com/amitxv/PC-Tuning/tree/main
    https://github.com/BoringBoredom/PC-Optimization-Hub
