@@ -49,6 +49,7 @@ I'm an full-stack developer and content creator building my version of the digit
 
 <details>
  <summary><h3>👨‍💻 Fundamental guides to system tuning, overclocking, basic Windows documentation, and more</h3></summary>
+   
    **ACT WIN + OFFICE**
    
    https://github.com/massgravel/Microsoft-Activation-Scripts
