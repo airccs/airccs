@@ -35,10 +35,16 @@
    **Fundamental guides to system tuning, overclocking, basic Windows documentation, and more**
 
    https://github.com/amitxv/PC-Tuning/tree/main
+   
    https://github.com/BoringBoredom/PC-Optimization-Hub
+   
    https://github.com/sieger/handbook
+   
    https://github.com/djdallmann/GamingPCSetup/tree/master
+   
    https://learn.microsoft.com/en-us/sysinternals/
+   
    https://learn.microsoft.com/ru-ru/windows/win32/procthread/about-processes-and-threads
+   
    https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/?source=recommendations
 
