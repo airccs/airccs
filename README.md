@@ -29,9 +29,12 @@
 https://github.com/massgravel/Microsoft-Activation-Scripts
 
 1) В Windows 8.1/10/11 щелкните правой кнопкой мыши меню «Пуск» Windows и выберите PowerShell или Терминал (не CMD).
-2) Скопируйте и вставьте приведенный ниже код и нажмите Enter.
+2) 
+3) Скопируйте и вставьте приведенный ниже код и нажмите Enter.
+   
 ```irm https://massgrave.dev/get | iex```
-3) Вы увидите варианты активации и следуйте инструкциям на экране. Вот и все.
+
+5) Вы увидите варианты активации и следуйте инструкциям на экране. Вот и все.
 
 **Windows 10 /11**
 
@@ -40,15 +43,19 @@ https://tb.rg-adguard.net/public.php
 https://uupdump.net/ 
 
 **Rufus for ISO convert**
+
 https://github.com/pbatard/rufus/
 
 **Office-Tool download**
+
 https://github.com/YerongAI/Office-Tool/releases
 
 **Debloat Copilot**
+
 https://github.com/thebookisclosed/ViVe
 
 **All vcredist libraries**
+
 https://github.com/abbodi1406/vcredist
 
 **Фундаментальные пособия по настройке системы, оверклокингу, основные разделы документации Windows и другое**
