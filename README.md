@@ -29,12 +29,13 @@
 https://github.com/massgravel/Microsoft-Activation-Scripts
 
 1) В Windows 8.1/10/11 щелкните правой кнопкой мыши меню «Пуск» Windows и выберите PowerShell или Терминал (не CMD).
-2) 
-3) Скопируйте и вставьте приведенный ниже код и нажмите Enter.
+
+2) Скопируйте и вставьте приведенный ниже код и нажмите Enter.
+   
    
 ```irm https://massgrave.dev/get | iex```
 
-5) Вы увидите варианты активации и следуйте инструкциям на экране. Вот и все.
+3) Вы увидите варианты активации и следуйте инструкциям на экране. Вот и все.
 
 **Windows 10 /11**
 
@@ -73,38 +74,3 @@ https://learn.microsoft.com/en-us/sysinternals/
 https://learn.microsoft.com/ru-ru/windows/win32/procthread/about-processes-and-threads
 
 https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/?source=recommendations
-
-# **Turtle python**
-
-```python
-tracer(0) # ускорение вывода рисунка
-pendown() # опустить хвост
-	begin_fill() # применение заливки
-end_fill() # соответственно окончание заливки
-canvas = getcanvas() # создание пересечений
-canvas.find_overlapping() # поиск пересечений
-```
-
-**Пример кода на счёт точек внутри фигуры:**
-
-```python
-from turtle import *
-
-tracer(0)
-pendown()
-right(90)
-cnt = 0
-k = 100
-begin_fill()
-for i in range(123):
-    forward(111 * k)
-    right(120)
-end_fill()
-canvas = getcanvas()
-for x in range(-1000, 1000):
-    for y in range(-1000, 1000):
-        if canvas.find_overlapping(x * k, y * k, x * k, y * k) == (5,):
-            cnt += 1
-print(cnt)
-done()
-```
