@@ -61,7 +61,7 @@ https://github.com/abbodi1406/vcredist
 
 **Фундаментальные пособия по настройке системы, оверклокингу, основные разделы документации Windows и другое**
 
-https://github.com/amitxv/PC-Tuning/tree/main
+https://github.com/valleyofdoom/PC-Tuning
 
 https://github.com/BoringBoredom/PC-Optimization-Hub
 
