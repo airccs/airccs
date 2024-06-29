@@ -39,6 +39,8 @@ https://github.com/massgravel/Microsoft-Activation-Scripts
 
 **Windows 10 /11**
 
+https://os.click/en
+
 https://tb.rg-adguard.net/public.php
 
 https://uupdump.net/ 
