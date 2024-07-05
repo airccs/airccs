@@ -1,6 +1,5 @@
 # 🏄‍♂️ airccs
 
-**`Dev`**
 ---
 
 ### 🧰 Languages and Tools
