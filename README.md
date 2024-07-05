@@ -15,7 +15,7 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=airccs&show_icons=true&theme=gruvbox)
+![airccs Stats](https://github-readme-stats.vercel.app/api?username=airccs&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
