@@ -23,7 +23,7 @@
 <details>
  <summary><h3>👨‍💻 Fundamental guides to system tuning, overclocking, basic Windows documentation, and more</h3></summary>
    
-**ACT WIN + OFFICE**
+**ACTIVATION WINDOWS + OFFICE**
 
 https://github.com/massgravel/Microsoft-Activation-Scripts
 
