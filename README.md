@@ -22,8 +22,13 @@
 
 <details>
  <summary><h3>👨‍💻 Fundamental guides to system tuning, overclocking, basic Windows documentation, and more</h3></summary>
+
+### **Rufus for ISO convert**
+
+https://github.com/pbatard/rufus/
+
    
-**ACTIVATION WINDOWS + OFFICE**
+### **ACTIVATION WINDOWS + OFFICE**
 
 https://github.com/massgravel/Microsoft-Activation-Scripts
 
@@ -36,7 +41,7 @@ https://github.com/massgravel/Microsoft-Activation-Scripts
 
 Вы увидите варианты активации и следуйте инструкциям на экране. Вот и все.
 
-**Windows 10 /11**
+### **Windows 10/11 download**
 
 https://os.click/en
 
@@ -44,23 +49,19 @@ https://tb.rg-adguard.net/public.php
 
 https://uupdump.net/ 
 
-**Rufus for ISO convert**
-
-https://github.com/pbatard/rufus/
-
-**Office-Tool download**
+### **Office-Tool download**
 
 https://github.com/YerongAI/Office-Tool/releases
 
-**Debloat Copilot**
+### **Debloat Copilot**
 
 https://github.com/thebookisclosed/ViVe
 
-**All vcredist libraries**
+### **All vcredist libraries**
 
 https://github.com/abbodi1406/vcredist
 
-**Фундаментальные пособия по настройке системы, оверклокингу, основные разделы документации Windows и другое**
+### **Фундаментальные пособия по настройке системы, оверклокингу, основные разделы документации Windows и другое**
 
 https://github.com/valleyofdoom/PC-Tuning
 
