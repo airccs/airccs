@@ -14,7 +14,7 @@
 
 ### 📊 Stats
 
-![airccs Stats](https://github-readme-stats.vercel.app/api?username=airccs&show_icons=true&theme=radical)
+![airccs Stats](https://github-readme-stats.vercel.app/api?username=airccs&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
